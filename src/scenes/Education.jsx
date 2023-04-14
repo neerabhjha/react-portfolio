@@ -66,12 +66,12 @@ const Education = () => {
             <div className="z-10">
               <p className="font-playfair font-semibold text-5xl">01</p>
               <p className="font-playfair font-semibold text-3xl mt-3">
-                B.Tech in Computer Science and Engineering
+                B.Tech in C.S.E
               </p>
             </div>
             <div className="w-1/2 md:w-3/4 h-32 bg-blue absolute right-0 top-0 z-[-1]" />
           </div>
-          <p className="mt-5">
+          <p className="mt-5 text-yellow">
             <ul>
               <li>GALGOTIAS UNIVERSITY, Greater Noida, Uttar Pradesh</li>
               <li>2018 - 2022</li>
@@ -101,7 +101,7 @@ const Education = () => {
             </div>
             <div className="w-1/2 md:w-3/4 h-32 bg-red absolute right-0 top-0 z-[-1]" />
           </div>
-          <p className="mt-5">
+          <p className="mt-5 text-yellow">
             <ul>
               <li>D.A.V PUBLIC SCHOOL, Samastipur, Bihar</li>
               <li>2015 - 2017</li>
