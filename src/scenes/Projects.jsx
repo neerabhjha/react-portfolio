@@ -74,19 +74,19 @@ const Projects = () => {
           {/* ROW 1 */}
           <Project
             image={project1Img}
-            title="Project 1"
+            title="INSTABOOK"
             overview="A social media application project built on the MERN stack. 
             The project is in perfect functioning order. The application is entirely responsive."
           />
           <Project
             image={project2Img}
-            title="Project 2"
+            title="QUICK CHAT"
             overview="A Real time chat application project built on the MERN stack and Socket.io. 
             The project is in perfect functioning order."
           />
           <Project
             image={project3Img}
-            title="Project 3"
+            title="MOVIE SEARCH"
             overview="A static web application that enables users to look up movie details and do movie searches."
           />
         </motion.div>
